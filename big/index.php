@@ -20,7 +20,22 @@
 
 	?>
 
-<?php include 'includes/footer.php'?> 
+</section>
+<!-- END LEFT COL -->
+
+<!-- START RIGHT COL -->
+<aside>
+ <h3> Website Development Cycle</h3>
+
+ <p>Here's a website development life cycle resource links,</p> <p> 1.<a href="https://xbsoftware.com/blog/website-development-process-full-guide/" target="_top"> https://xbsoftware.com/blog/website-dev't...</a></p>
+ <p>2.<a href="http://cs.tsu.edu/ghemri/CS117/ClassNotes/Web%20Development%20Life%20Cycle_small.htm" target="_top">http://cs.tsu.edu/ghemri/CS117/ClassNotes/...</a></p>
+ <p>3.<a href="https://www.macronimous.com/resources/articles/web-development-life-cycle" target="_top">https://www.macronimous.com/resources/articles/...</a></p>
+</aside>
+<!-- END RIGHT COL -->
+ 
+<!-- START Footer -->
+<?php include 'includes/footer.php'?>
+
 
 
     <!-- JavaScript associated with the W3Schools.com Top Navigation Response Exercise --> 
